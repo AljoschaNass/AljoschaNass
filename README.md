@@ -1,38 +1,68 @@
-<h1 align="left">Hallo Welt! 👋</h1>
+# Aljoscha Naß
+**Frontend-Entwickler · Niedersachsen**
 
-###
+> Ich repariere Technik bei der Bahn und baue sie abends selbst – mit Code.
+> Lerne Frontend-Entwicklung und baue Web-Apps, die ich selbst gerne nutzen würde.
 
-<p align="left">Willkommen auf meinem GitHub-Profil! <br>Mein Name ist Aljoscha Naß und ich komme aus dem schönen Niedersachen in Deutschland.</p>
+---
 
-###
+## Über mich
 
-<h2 align="left">Über mich</h2>
+Mein erster Code war kein "Hello World" – sondern eine SPS-Steuerung in der Mechatroniker-Ausbildung. Erst die Logik verstehen, dann Fehler jagen, dann erweitern. Irgendwann wollte ich das auf eigene Projekte übertragen und etwas bauen, das wirklich gebraucht wird. Heute entwickle ich Webapps, gehe laufen und bin bei der Feuerwehr – weil ich offenbar nicht stillsitzen kann.
 
-###
+- 🪲 Bugs produziert seit Dezember 2024
+- 🎯 Aktuell auf der Werkbank: Angular & TypeScript, weil ich nicht nur schnell etwas zusammenbauen, sondern es auch sauber halten will.
+- 🎲 Lieblingstool: Dev-Tools — dort beginnt jede gute Problemlösung
 
-<p align="left">🪲 Bugs produziert seit: Dezember 2024<br>📚 Ich lerne gerade: <br>🎯 Ziel: Clean Code und Responsive Designs<br>🎲 Fun Fact: Mein Lieblingswerkzeug sind die Dev-Tools – dort beginnt (fast) jede gute Problemlösung.</p>
+---
 
-###
+## Was ich gebaut habe
 
-<h2 align="left">Mein Tech Stack</h2>
+<table>
+<tr>
+<th width="33%"><a href="https://github.com/AljoschaNass/Sharkie-2D-Game">🦈 Sharkie 2D</a></th>
+<th width="33%"><a href="https://github.com/AljoschaNass/pokedex">📘 Pokedex</a></th>
+<th width="33%"><a href="https://github.com/AljoschaNass/join">📋 Join</a></th>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/AljoschaNass/Sharkie-2D-Game/main/assets/screenshot.png" alt="Sharkie Screenshot"/></td>
+<td><img src="https://raw.githubusercontent.com/AljoschaNass/pokedex/main/assets/screenshots/preview.png" alt="Pokedex Screenshot"/></td>
+<td><img src="https://raw.githubusercontent.com/AljoschaNass/join/main/assets/screenshot.png" alt="Join Screenshot"/></td>
+</tr>
+<tr>
+<td>
+Sharkie ist ein 2D-Jump'n'Run unter Wasser – mit Feinden, Münzen, Gift und einem Wal als Endboss. Die coolste Erkenntnis beim Entwickeln: Objektorientierung mit Klassen macht den Code nicht nur sauberer, sondern auch deutlich einfacher erweiterbar.
+</td>
+<td>
+Mit meinem Pokédex kann man alle Pokémon suchen und ihre Stats sowie Evolutionsstufen nachschlagen. Die coolste Herausforderung: die richtigen Daten aus der API herauszufischen und asynchrone Funktionen zuverlässig zum Laufen zu bringen.
+</td>
+<td>
+Join ist ein Kanban-Tool für gemeinsame Projektplanung – gebaut zu dritt. Was ich dabei gelernt habe: Code im Team schreiben heißt auch, Git-Konflikte lösen und sich absprechen, bevor man losbaut.
+</td>
+</tr>
+<tr>
+<td><sub>Vanilla JS · HTML5 Canvas</sub></td>
+<td><sub>Vanilla JS · PokéAPI · Service Worker</sub></td>
+<td><sub>JavaScript · Firebase</sub></td>
+</tr>
+<tr>
+<td><a href="LIVE_URL_SHARKIE">▶ Live</a> · <a href="https://github.com/AljoschaNass/Sharkie-2D-Game">Code</a></td>
+<td><a href="LIVE_URL_POKEDEX">▶ Live</a> · <a href="https://github.com/AljoschaNass/pokedex">Code</a></td>
+<td><a href="LIVE_URL_JOIN">▶ Live</a> · <a href="https://github.com/AljoschaNass/join">Code</a></td>
+</tr>
+</table>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-</div>
+## Womit ich arbeite
 
-###
+**Daily Driver:** HTML · CSS · JavaScript · TypeScript
+**Lerne ich gerade:** Angular
+**Tools:** Figma · Firebase · Supabase · Git · FileZilla
+
+---
+
+## Aktivität
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AljoschaNass/AljoschaNass/output/pacman-contribution-graph-dark.svg">
@@ -40,12 +70,77 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AljoschaNass/AljoschaNass/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/aljoscha-nass/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+## Kontakt
 
-###
+[LinkedIn](https://www.linkedin.com/in/aljoscha-nass/) · [GitHub](https://github.com/AljoschaNass)
+
+---
+
+<details>
+<summary>🇬🇧 English version</summary>
+
+<br>
+
+# Aljoscha Naß
+**Frontend Developer · Lower Saxony, Germany**
+
+> I fix machinery at Deutsche Bahn by day and build my own at night — with code.
+> Learning frontend development and shipping web apps I'd actually want to use myself.
+
+## About me
+
+My first code wasn't "Hello World" — it was a PLC control program during my mechatronics apprenticeship. Understand the logic first, hunt the bugs, then extend it. At some point I wanted to apply that to my own projects and build something that's actually useful. These days I build web apps, go running, and volunteer at the fire department — turns out I can't sit still.
+
+- 🪲 Shipping bugs since December 2024
+- 🎯 Currently on the workbench: Angular & TypeScript — because I don't just want to throw something together, I want to keep it clean.
+- 🎲 Favorite tool: DevTools — where every good problem-solve starts
+
+## What I've built
+
+<table>
+<tr>
+<th width="33%"><a href="https://github.com/AljoschaNass/Sharkie-2D-Game">🦈 Sharkie 2D</a></th>
+<th width="33%"><a href="https://github.com/AljoschaNass/pokedex">📘 Pokedex</a></th>
+<th width="33%"><a href="https://github.com/AljoschaNass/join">📋 Join</a></th>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/AljoschaNass/Sharkie-2D-Game/main/assets/screenshot.png"/></td>
+<td><img src="https://raw.githubusercontent.com/AljoschaNass/pokedex/main/assets/screenshots/preview.png"/></td>
+<td><img src="https://raw.githubusercontent.com/AljoschaNass/join/main/assets/screenshot.png"/></td>
+</tr>
+<tr>
+<td>
+Sharkie is a 2D underwater jump'n'run — with enemies, coins, poison, and a whale as the final boss. The coolest takeaway from building it: object-oriented code with classes isn't just cleaner, it's much easier to extend.
+</td>
+<td>
+My Pokédex lets you search every Pokémon and look up their stats and evolution stages. The coolest challenge: pulling exactly the right data out of the API and getting async functions to run reliably.
+</td>
+<td>
+Join is a Kanban tool for collaborative project planning — built with two teammates. What I took away: writing code in a team also means resolving Git conflicts and agreeing on the approach before you start building.
+</td>
+</tr>
+<tr>
+<td><sub>Vanilla JS · HTML5 Canvas</sub></td>
+<td><sub>Vanilla JS · PokéAPI · Service Worker</sub></td>
+<td><sub>JavaScript · Firebase</sub></td>
+</tr>
+<tr>
+<td><a href="LIVE_URL_SHARKIE">▶ Live</a> · <a href="https://github.com/AljoschaNass/Sharkie-2D-Game">Code</a></td>
+<td><a href="LIVE_URL_POKEDEX">▶ Live</a> · <a href="https://github.com/AljoschaNass/pokedex">Code</a></td>
+<td><a href="LIVE_URL_JOIN">▶ Live</a> · <a href="https://github.com/AljoschaNass/join">Code</a></td>
+</tr>
+</table>
+
+## Stack
+
+**Daily driver:** HTML · CSS · JavaScript · TypeScript
+**Currently learning:** Angular
+**Tools:** Figma · Firebase · Supabase · Git · FileZilla
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/aljoscha-nass/) · [GitHub](https://github.com/AljoschaNass)
+
+</details>
