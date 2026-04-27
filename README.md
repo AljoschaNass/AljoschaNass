@@ -20,9 +20,9 @@ Mein erster Code war kein "Hello World" – sondern eine SPS-Steuerung in der Me
 
 <table>
 <tr>
-<th width="33%"><a href="https://github.com/AljoschaNass/Sharkie-2D-Game">🦈 Sharkie 2D</a></th>
-<th width="33%"><a href="https://github.com/AljoschaNass/pokedex">📘 Pokedex</a></th>
-<th width="33%"><a href="https://github.com/AljoschaNass/join">📋 Join</a></th>
+<th width="33%"><a href="https://github.com/AljoschaNass/Sharkie-2D-Game">Sharkie 2D</a></th>
+<th width="33%"><a href="https://github.com/AljoschaNass/pokedex">Pokedex</a></th>
+<th width="33%"><a href="https://github.com/AljoschaNass/join">Join</a></th>
 </tr>
 <tr>
 <td><img src="https://raw.githubusercontent.com/AljoschaNass/Sharkie-2D-Game/main/img/screenshot.png" alt="Sharkie Screenshot"/></td>
@@ -42,23 +42,35 @@ Join ist ein Kanban-Tool für gemeinsame Projektplanung – gebaut zu dritt. Was
 </tr>
 <tr>
 <td><sub>Vanilla JS · HTML5 Canvas</sub></td>
-<td><sub>Vanilla JS · PokéAPI · Service Worker</sub></td>
+<td><sub>Vanilla JS · PokéAPI</sub></td>
 <td><sub>JavaScript · Firebase</sub></td>
 </tr>
 <tr>
-<td><a href="https://github.com/AljoschaNass/Sharkie-2D-Game">Code</a></td>
-<td><a href="https://github.com/AljoschaNass/pokedex">Code</a></td>
+<td><a href="https://aljoschanass.github.io/Sharkie-2D-Game/">▶ Live</a> · <a href="https://github.com/AljoschaNass/Sharkie-2D-Game">Code</a></td>
+<td><a href="https://aljoschanass.github.io/pokedex/">▶ Live</a> · <a href="https://github.com/AljoschaNass/pokedex">Code</a></td>
 <td><a href="https://aljoschanass.github.io/join/">▶ Live</a> · <a href="https://github.com/AljoschaNass/join">Code</a></td>
 </tr>
 </table>
 
 ---
 
-## Womit ich arbeite
+## Techstack
 
-**Daily Driver:** HTML · CSS · JavaScript · TypeScript
-**Lerne ich gerade:** Angular
-**Tools:** Figma · Firebase · Supabase · Git · FileZilla
+**Daily Driver:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"/> HTML ·
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"/> CSS ·
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/> JavaScript ·
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20"/> TypeScript
+
+**Lerne ich gerade:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="20" height="20"/> Angular
+
+**Tools:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" height="20"/> Figma ·
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="20" height="20"/> Firebase ·
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="20" height="20"/> Supabase ·
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/> Git ·
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="20" height="20"/> FileZilla
 
 ---
 
@@ -101,9 +113,9 @@ My first code wasn't "Hello World" — it was a PLC control program during my me
 
 <table>
 <tr>
-<th width="33%"><a href="https://github.com/AljoschaNass/Sharkie-2D-Game">🦈 Sharkie 2D</a></th>
-<th width="33%"><a href="https://github.com/AljoschaNass/pokedex">📘 Pokedex</a></th>
-<th width="33%"><a href="https://github.com/AljoschaNass/join">📋 Join</a></th>
+<th width="33%"><a href="https://github.com/AljoschaNass/Sharkie-2D-Game">Sharkie 2D</a></th>
+<th width="33%"><a href="https://github.com/AljoschaNass/pokedex">Pokedex</a></th>
+<th width="33%"><a href="https://github.com/AljoschaNass/join">Join</a></th>
 </tr>
 <tr>
 <td><img src="https://raw.githubusercontent.com/AljoschaNass/Sharkie-2D-Game/main/img/screenshot.png"/></td>
@@ -127,17 +139,29 @@ Join is a Kanban tool for collaborative project planning — built with two team
 <td><sub>JavaScript · Firebase</sub></td>
 </tr>
 <tr>
-<td><a href="https://github.com/AljoschaNass/Sharkie-2D-Game">Code</a></td>
-<td><a href="https://github.com/AljoschaNass/pokedex">Code</a></td>
+<td><a href="https://aljoschanass.github.io/Sharkie-2D-Game/">▶ Live</a> · <a href="https://github.com/AljoschaNass/Sharkie-2D-Game">Code</a></td>
+<td><a href="https://aljoschanass.github.io/pokedex/">▶ Live</a> · <a href="https://github.com/AljoschaNass/pokedex">Code</a></td>
 <td><a href="https://aljoschanass.github.io/join/">▶ Live</a> · <a href="https://github.com/AljoschaNass/join">Code</a></td>
 </tr>
 </table>
 
-## Stack
+## Tech Stack
 
-**Daily driver:** HTML · CSS · JavaScript · TypeScript
-**Currently learning:** Angular
-**Tools:** Figma · Firebase · Supabase · Git · FileZilla
+**Daily driver:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"/> HTML ·
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"/> CSS ·
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/> JavaScript ·
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20"/> TypeScript
+
+**Currently learning:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="20" height="20"/> Angular
+
+**Tools:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" height="20"/> Figma ·
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="20" height="20"/> Firebase ·
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="20" height="20"/> Supabase ·
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20"/> Git ·
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="20" height="20"/> FileZilla
 
 ## Contact
 
