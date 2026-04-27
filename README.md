@@ -25,9 +25,9 @@ Mein erster Code war kein "Hello World" – sondern eine SPS-Steuerung in der Me
 <th width="33%"><a href="https://github.com/AljoschaNass/join">📋 Join</a></th>
 </tr>
 <tr>
-<td><img src="https://raw.githubusercontent.com/AljoschaNass/Sharkie-2D-Game/main/assets/screenshot.png" alt="Sharkie Screenshot"/></td>
+<td><img src="https://raw.githubusercontent.com/AljoschaNass/Sharkie-2D-Game/main/img/screenshot.png" alt="Sharkie Screenshot"/></td>
 <td><img src="https://raw.githubusercontent.com/AljoschaNass/pokedex/main/assets/screenshots/preview.png" alt="Pokedex Screenshot"/></td>
-<td><img src="https://raw.githubusercontent.com/AljoschaNass/join/main/assets/screenshot.png" alt="Join Screenshot"/></td>
+<td><img src="https://raw.githubusercontent.com/AljoschaNass/join/main/assets/img/screenshot.png" alt="Join Screenshot"/></td>
 </tr>
 <tr>
 <td>
@@ -46,9 +46,9 @@ Join ist ein Kanban-Tool für gemeinsame Projektplanung – gebaut zu dritt. Was
 <td><sub>JavaScript · Firebase</sub></td>
 </tr>
 <tr>
-<td><a href="LIVE_URL_SHARKIE">▶ Live</a> · <a href="https://github.com/AljoschaNass/Sharkie-2D-Game">Code</a></td>
-<td><a href="LIVE_URL_POKEDEX">▶ Live</a> · <a href="https://github.com/AljoschaNass/pokedex">Code</a></td>
-<td><a href="LIVE_URL_JOIN">▶ Live</a> · <a href="https://github.com/AljoschaNass/join">Code</a></td>
+<td><a href="https://github.com/AljoschaNass/Sharkie-2D-Game">Code</a></td>
+<td><a href="https://github.com/AljoschaNass/pokedex">Code</a></td>
+<td><a href="https://aljoschanass.github.io/join/">▶ Live</a> · <a href="https://github.com/AljoschaNass/join">Code</a></td>
 </tr>
 </table>
 
@@ -106,9 +106,9 @@ My first code wasn't "Hello World" — it was a PLC control program during my me
 <th width="33%"><a href="https://github.com/AljoschaNass/join">📋 Join</a></th>
 </tr>
 <tr>
-<td><img src="https://raw.githubusercontent.com/AljoschaNass/Sharkie-2D-Game/main/assets/screenshot.png"/></td>
+<td><img src="https://raw.githubusercontent.com/AljoschaNass/Sharkie-2D-Game/main/img/screenshot.png"/></td>
 <td><img src="https://raw.githubusercontent.com/AljoschaNass/pokedex/main/assets/screenshots/preview.png"/></td>
-<td><img src="https://raw.githubusercontent.com/AljoschaNass/join/main/assets/screenshot.png"/></td>
+<td><img src="https://raw.githubusercontent.com/AljoschaNass/join/main/assets/img/screenshot.png"/></td>
 </tr>
 <tr>
 <td>
@@ -123,13 +123,13 @@ Join is a Kanban tool for collaborative project planning — built with two team
 </tr>
 <tr>
 <td><sub>Vanilla JS · HTML5 Canvas</sub></td>
-<td><sub>Vanilla JS · PokéAPI · Service Worker</sub></td>
+<td><sub>Vanilla JS · PokéAPI</sub></td>
 <td><sub>JavaScript · Firebase</sub></td>
 </tr>
 <tr>
-<td><a href="LIVE_URL_SHARKIE">▶ Live</a> · <a href="https://github.com/AljoschaNass/Sharkie-2D-Game">Code</a></td>
-<td><a href="LIVE_URL_POKEDEX">▶ Live</a> · <a href="https://github.com/AljoschaNass/pokedex">Code</a></td>
-<td><a href="LIVE_URL_JOIN">▶ Live</a> · <a href="https://github.com/AljoschaNass/join">Code</a></td>
+<td><a href="https://github.com/AljoschaNass/Sharkie-2D-Game">Code</a></td>
+<td><a href="https://github.com/AljoschaNass/pokedex">Code</a></td>
+<td><a href="https://aljoschanass.github.io/join/">▶ Live</a> · <a href="https://github.com/AljoschaNass/join">Code</a></td>
 </tr>
 </table>
 
